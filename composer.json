@@ -1,9 +1,9 @@
 {
-    "name": "mateusilhamorel/virtualstore",
+    "name": "hcodebr/ecommerce",
     "authors": [
       {
-        "name": "Mateus Ilha Morel",
-        "email": "mateusilhamorel@gmail.com"
+        "name": "Hcode Treinamentos",
+        "email": "suporte@hcode.com.br"
       }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "":"vendor\\mateusilhamorel\\php-classes\\src"
+            "Hcode\\": "vendor/hcodebr/php-classes/src"
         }
     }
 }
