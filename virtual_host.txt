@@ -6,7 +6,7 @@ Passo 1:
 Primeiro é necessário permitir que o sistema use o Virtual Host.
 Para isso abra o arquivo do lampp em:
 
-/opt/lampp/etc/httpd.configured
+/opt/lampp/etc/httpd.conf
 
 Será necessário editar este arquivo, então abra com permissão de escrita.
 
