@@ -18,7 +18,7 @@
                 <div class="footer-menu">
                     <h2 class="footer-wid-title">Navegação </h2>
                     <ul>
-                        <li><a href="#">Minha Conta</a></li>/res/site/
+                        <li><a href="#">Minha Conta</a></li>
                         <li><a href="#">Meus Pedidos</a></li>
                         <li><a href="#">Lista de Desejos</a></li>
                     </ul>
@@ -52,7 +52,7 @@
             </div>
         </div>
     </div>
-</div>/res/site/
+</div>
 
 <div class="footer-bottom-area">
     <div class="container">
