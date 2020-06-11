@@ -1,0 +1,1 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?><li><a href="/categories/3">Airsoft Armas</a></li><li><a href="/categories/2">Airsoft Suprimentos</a></li><li><a href="/categories/5">Componentes reposicao</a></li><li><a href="/categories/4">Fardamento</a></li>
