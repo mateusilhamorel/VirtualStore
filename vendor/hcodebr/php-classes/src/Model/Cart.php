@@ -19,6 +19,7 @@ class Cart extends Model{
             $cart->get((int)$_SESSION[Cart::SESSION]['idcart']);
         } else {
             $cart->getFromSessionID();
+            echo "Passou pelo get do Session id";
 	    if(!(int)$cart->getidcart() > 0) 
             {
 	        $data = [
@@ -65,7 +66,7 @@ class Cart extends Model{
 			':deszipcode'=>$this->getdeszipcode(),
 			':vlfreight'=>$this->getvlfreight(),
 			':nrdays'=>$this->getnrdays()
-	]);
+		]);
 	$this->setData($results[0]);
     }
 
